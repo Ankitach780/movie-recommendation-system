@@ -1,8 +1,7 @@
-Juypter Notebook
-Python IDE
-Pandas 
-Numpy
-Matplotlib
-Seaborn
-Sklearn
-Pickle/Joblib
+jupyter
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
