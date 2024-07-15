@@ -1,0 +1,8 @@
+Juypter Notebook
+Python IDE
+Pandas 
+Numpy
+Matplotlib
+Seaborn
+Sklearn
+Pickle/Joblib
