@@ -7,7 +7,7 @@ Displays the top 5 movie recommendations.
 Includes movie posters for better visualization.
 Clean and responsive user interface.
 # 📷 Screenshot
-Screenshot%202025-01-04%20132852.png
+![Movie Recommendations](./Screenshot%202025-01-04%20132852.png)
 
 # 🛠️ Technologies Used
 Frontend: HTML, CSS
