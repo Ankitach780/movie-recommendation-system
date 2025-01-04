@@ -1,2 +1,36 @@
-# movie-recommendation-system
-This is movie recommendation system which give the similar movies names that we have entered. This system is basically based on machine learning algorithm. After that i have used the python flask to make the web page. 
+🎥 movie-recommendation-system
+A personalized movie recommendation system that suggests the top 5 movies to the user based on their search query. The system is visually appealing, responsive, and user-friendly.
+
+📝 Features
+Search for movies by title or keyword.
+Displays the top 5 movie recommendations.
+Includes movie posters for better visualization.
+Clean and responsive user interface.
+📷 Screenshots
+Home Page
+
+Movie Recommendations
+
+Note: Replace the placeholders with your actual screenshot file names.
+
+🛠️ Technologies Used
+Frontend: HTML, CSS
+Backend: Python (Flask)
+Machine Learning: Collaborative filtering or Content-based filtering
+Tools: Jupyter Notebook, pandas, scikit-learn
+
+🧠 Recommendation Logic
+Input: User searches for a movie by entering a title or keyword.
+Output: The system recommends the top 5 most relevant movies.
+Algorithm: Utilizes machine learning techniques like collaborative filtering, content-based filtering, or a hybrid approach to generate recommendations.
+
+💡 Future Improvements
+Add user login functionality for personalized recommendations.
+Integrate with external APIs (e.g., TMDB) for real-time data.
+Include user ratings and reviews.
+🏆 Author
+Developed by Your Name.
+
+🖼️ Contributions
+Feel free to fork the repository and submit pull requests for improvements.
+
